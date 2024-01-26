@@ -1,1 +1,1 @@
-Decentralizing Weather
+Decentralizing weather and climate intelligence
